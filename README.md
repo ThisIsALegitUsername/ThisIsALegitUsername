@@ -1,11 +1,36 @@
-- 📫 discord: hooman#1196
+# Hi! I'm Nitwit.
 
 
+## Projects
 
-## My contribution (hours of sleep lost) graph!
+I'm currently, and for the foreseeable future, working on a fork of minecraft that can run in your browser.
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=ThisIsALegitUsername&theme=react-dark&hide_border=true&area=true)
+## Contact
 
-## Streak!
+e-mail: ihavepotatoesinmyfridge@gmail.com (i rarely check my email)
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ThisIsALegitUsername&theme=tokyonight" alt="mystreak"/>
+discord: hooman#1196 (i check discord daily.)
+
+## I can code in a few different languages.
+
+* Java. (I'm most familiar with this language.)
+* Javascript. (I know how to code at an intermediate level in javascript.)
+* C. (I know only the basics)
+* Node js. (I don't code in this language and I have almost forgotten it completely.)
+
+## I am able to do front end web development
+
+* HTML
+* CSS
+
+I can create decent websites that look modern.
+
+## FAQ
+
+What's your age? **13**
+
+What IDE do you use? **VSCode**
+
+What do you code on? **School chromebook**
+
+Add x to your client! **Join the discord for the client and make a post in the suggestions feed.**
