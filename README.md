@@ -1,9 +1,8 @@
-# Hi! I'm Nitwit.
-
+# Hello! Here's some info about me.
 
 ## Projects
 
-I'm currently, and for the foreseeable future, working on a fork of minecraft that can run in your browser.
+I'm currently, and for the foreseeable future, working on a fork of a popular desktop game that can run in a browser.
 
 ## Contact
 
@@ -23,14 +22,10 @@ discord: hooman#1196 (i check discord daily.)
 * HTML
 * CSS
 
-I can create decent websites that look modern.
+I can create good-looking websites.
 
 ## FAQ
 
 What's your age? **13**
 
 What IDE do you use? **VSCode**
-
-What do you code on? **School chromebook**
-
-Add x to your client! **Join the discord for the client and make a post in the suggestions feed.**
