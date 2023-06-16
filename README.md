@@ -2,7 +2,7 @@
 
 ## Projects
 
-I'm currently, and for the foreseeable future, working on a fork of a popular desktop game that can run in a browser.
+Not working on any projects at the moment.
 
 ## Contact
 
