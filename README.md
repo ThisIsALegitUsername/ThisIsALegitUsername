@@ -2,13 +2,13 @@
 
 ## Projects
 
-Not working on any projects at the moment.
+Currently working on a spacebar counter project
 
 ## Contact
 
 e-mail: ihavepotatoesinmyfridge@gmail.com (i rarely check my email)
 
-discord: hooman#1196 (i check discord daily.)
+discord: hooman23 (i check discord daily.)
 
 ## I can code in a few different languages.
 
