@@ -2,30 +2,23 @@
 
 ## Projects
 
-Currently working on a spacebar counter project
+n/a
 
 ## Contact
 
-e-mail: ihavepotatoesinmyfridge@gmail.com (i rarely check my email)
-
-discord: hooman23 (i check discord daily.)
+discord: hooman23
 
 ## I can code in a few different languages.
 
-* Java. (I'm most familiar with this language.)
-* Javascript. (I know how to code at an intermediate level in javascript.)
-* C. (I know only the basics)
-* Node js. (I don't code in this language and I have almost forgotten it completely.)
+* Java
+* Javascript
+* NodeJS
+* C
 
-## I am able to do front end web development
-
-* HTML
-* CSS
-
-I can create good-looking websites.
+### I am also able to do full-stack web development and create stunning websites.
 
 ## FAQ
 
-What's your age? **13**
+What's your age? **14**
 
-What IDE do you use? **VSCode**
+What IDE(s) do you use? **VSCode, IntelliJ IDEA**
