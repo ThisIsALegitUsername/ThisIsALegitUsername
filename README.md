@@ -19,6 +19,4 @@ discord: hooman23
 
 ## FAQ
 
-What's your age? **14**
-
 What IDE(s) do you use? **VSCode, IntelliJ IDEA**
